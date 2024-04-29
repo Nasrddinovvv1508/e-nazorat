@@ -103,7 +103,6 @@ main {
     margin-left: 250px;
     margin-top: 70px !important;
     position: relative;
-    z-index: -10;
     padding: 20px;
     background-color: rgb(238, 242, 246);
     flex: 1 1 0%;
